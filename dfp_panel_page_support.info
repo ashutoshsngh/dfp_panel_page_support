@@ -1,0 +1,9 @@
+name = DFP Panel page support.
+description = DFP Ads customization from panel page settings.
+core = 7.x
+package = Advertising
+
+dependencies[] = ctools
+dependencies[] = page_manager
+dependencies[] = panels
+dependencies[] = dfp
